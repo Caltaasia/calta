@@ -1,25 +1,45 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-10-21T09:45:02.244939+00:00",
+  "updatedAt": "2026-10-22T09:44:36.529197+00:00",
   "items": [
     {
       "source": "logistan.info",
       "topic": "Транспорт",
       "title": "На юго-востоке Казахстана строят сыродельный завод за $77,9 млн",
-      "summary": "Фактически, объект расположится в Конаеве Алматинской области. Вместе с тем, судя по всему, его строит компания Sofood Kaz . При этом по имеющимся данным, ключевой показатель составляет 40,9 тыс.",
+      "summary": "Как отмечается, объект расположится в Конаеве Алматинской области. При этом судя по всему, его строит компания Sofood Kaz . Вместе с тем, по имеющимся данным, ключевой показатель составляет 40,9 тыс.",
       "publishedAt": "Tue, 20 Oct 2026 13:06:40 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1765436271393-16377d973d0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8MTB8fGxvZ2lzdGljcyUyMHRyYW5zcG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTI1NzU4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Mnx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI2NjIyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "logistan.info",
-      "topic": "Транспорт",
-      "title": "Sinoma Energy построила в центральной части Узбекистана электростанцию за $203 млн",
-      "summary": "Согласно приведённым цифрам, показатель достигает 24. При этом по имеющимся данным, ключевой показатель составляет 300. Также отмечается, что соответствующий показатель, по последним данным, находится на уровне 1,36 млрд.",
-      "publishedAt": "Tue, 20 Oct 2026 13:03:33 +0000",
+      "topic": "Грузы",
+      "title": "National Airlines начала возить грузы из Малайзии в Индонезию через Казахстан",
+      "summary": "Фактически, американская National Airlines расширила географию полётов в Казахстане, включив в неё Актобе, Актюбинской области. Также отмечается, что по имеющимся данным, ключевой показатель составляет 20. Помимо этого, по сути, более подробную информацию, включая характер груза, местные власти не приводят.",
+      "publishedAt": "Thu, 22 Oct 2026 05:08:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1709885536197-9f12cd1f480c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8M3x8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5MjU3NTg5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI2NjIyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    },
+    {
+      "source": "inform.kz",
+      "topic": "Порты",
+      "title": "Холдинг «Байтерек» подписал меморандум на $1 млрд для развития порта Курык",
+      "summary": "Как следует из доступных сведений, речь идёт о 2026 . По имеющимся данным, согласно приведённым цифрам, показатель достигает 1 млрд.",
+      "publishedAt": "2026-10-22T13:26:00+05:00",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1473445730015-841f29a9490b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8MTB8fGxvZ2lzdGljcyUyMHRyYW5zcG9ydHxlbnwxfDB8fHwxNzkyNjYyMjcyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    },
+    {
+      "source": "inform.kz",
+      "topic": "Транспорт",
+      "title": "Золотую руду на 1,5 млрд теңге пытались вывезти из Казахстана под видом меди",
+      "summary": "Согласно приведённым цифрам, показатель достигает 2,6 тыс. По имеющимся данным, судя по всему, для сокрытия фактического состава сырья использовались таможенные документы, в которых продукция указывался как медная руда и концентраты, АФМ.",
+      "publishedAt": "2026-10-22T09:11:00+05:00",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1695222833131-54ee679ae8e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8M3x8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI2NjIyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
