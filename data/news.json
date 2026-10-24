@@ -1,35 +1,45 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-10-23T09:40:44.940247+00:00",
+  "updatedAt": "2026-10-24T09:12:55.017427+00:00",
   "items": [
     {
       "source": "logistan.info",
       "topic": "Транспорт",
-      "title": "В Узбекистане зафиксировали рост производства и потребления электроэнергии",
-      "summary": "По имеющимся данным, ключевой показатель составляет 2026. Вместе с тем, по имеющимся данным, ключевой показатель составляет 5,4 млрд. По имеющимся данным, как следует из доступных сведений, речь идёт о 10,5 млрд.",
-      "publishedAt": "Fri, 23 Oct 2026 08:37:00 +0000",
+      "title": "В Казахстане начали строить ж/д линию к месторождению калийных солей",
+      "summary": "Соответствующий показатель, по последним данным, находится на уровне 87 километров. Также отмечается, что соответствующий показатель, по последним данным, находится на уровне 285 километров. Помимо этого, согласно приведённым цифрам, показатель достигает 161 млрд.",
+      "publishedAt": "Fri, 23 Oct 2026 12:25:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1662454456063-e6dffb19fe09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Mnx8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5Mjc0ODQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1559297434-fae8a1916a79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI4MzMxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "logistan.info",
-      "topic": "Порты",
-      "title": "«Батумский морской порт» нарастил на 13% объем перевалки грузов",
-      "summary": "Согласно приведённым цифрам, показатель достигает 2026. Также отмечается, что по имеющимся данным, ключевой показатель составляет 0,71 млн. Помимо этого, по имеющимся данным, ключевой показатель составляет 1,43 млн.",
-      "publishedAt": "Fri, 23 Oct 2026 05:55:00 +0000",
+      "topic": "Транспорт",
+      "title": "В Узбекистане зафиксировали рост производства и потребления электроэнергии",
+      "summary": "Соответствующий показатель, по последним данным, находится на уровне 2026. При этом как следует из доступных сведений, речь идёт о 5,4 млрд. Также отмечается, что соответствующий показатель, по последним данным, находится на уровне 10,5 млрд.",
+      "publishedAt": "Fri, 23 Oct 2026 08:37:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1760441471231-79f080ccca49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Mnx8cG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTI3NDg0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1592838064575-70ed626d3a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8OXx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI4MzMxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    },
+    {
+      "source": "inform.kz",
+      "topic": "Порты",
+      "title": "Холдинг «Байтерек» подписал меморандум на $1 млрд для развитию порта Курык",
+      "summary": "Как следует из доступных сведений, речь идёт о 2026 . По имеющимся данным, согласно приведённым цифрам, показатель достигает 1 млрд.",
+      "publishedAt": "2026-10-22T13:26:00+05:00",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1678562086957-9bd714d428f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8OHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5MjgzMzE3NHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "inform.kz",
       "topic": "Транспорт",
       "title": "Золотую руду на 1,5 млрд теңге пытались вывезти из Казахстана под видом меди",
-      "summary": "Как следует из доступных сведений, речь идёт о 2,6 тыс. Вместе с тем, по сути, для сокрытия фактического состава сырья использовались таможенные документы, в которых товар указывался как медная руда и концентраты, АФМ.",
+      "summary": "Согласно приведённым цифрам, показатель достигает 2,6 тыс. Кроме того, судя по всему, для сокрытия фактического состава сырья использовались таможенные документы, в которых товар указывался как медная руда и концентраты, АФМ.",
       "publishedAt": "2026-10-22T09:11:00+05:00",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8MXx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI3NDg0NDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1565891741441-64926e441838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NXx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTI4MzMxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
