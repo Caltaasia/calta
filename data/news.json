@@ -1,16 +1,5 @@
 {
-  "isDemo": false,
-  "updatedAt": "2026-11-05T12:53:49.797674+00:00",
-  "items": [
-    {
-      "source": "inform.kz",
-      "topic": "Грузы",
-      "title": "Транзит грузов через Казахстан за десять лет вырос в 5,6 раза",
-      "summary": "По имеющимся данным, ключевой показатель составляет 6,5 млн. Вместе с тем, соответствующий показатель, по последним данным, находится на уровне 70,8%.",
-      "publishedAt": "2026-10-28T10:05:00+05:00",
-      "photo": {
-        "url": "https://images.unsplash.com/photo-1686658844633-a4f4253f83b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Nnx8dHJhbnNpdCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTM3OTYxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-      }
-    }
-  ]
+  "isDemo": true,
+  "updatedAt": "2026-11-06T12:38:02.708506+00:00",
+  "items": []
 }
