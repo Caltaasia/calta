@@ -1,5 +1,26 @@
 {
-  "isDemo": true,
-  "updatedAt": "2026-11-13T12:43:38.122228+00:00",
-  "items": []
+  "isDemo": false,
+  "updatedAt": "2026-11-14T11:51:56.630573+00:00",
+  "items": [
+    {
+      "source": "logistan.info",
+      "topic": "Транспорт",
+      "title": "На юге Казахстана обещают построить завод по производству муки и масла за $31 млн",
+      "summary": "Как отмечается, объект намечено разместить в Мактааральском районе Туркестанской области. По имеющимся данным, как следует из доступных сведений, речь идёт о 31 млн. Вместе с тем, соответствующий показатель, по последним данным, находится на уровне 300 тонн. Также отмечается, что по данным Казахстанская компания, ключевые параметры составляют 31 млн.",
+      "publishedAt": "Fri, 30 Oct 2026 13:16:00 +0000",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1678562086957-9bd714d428f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8MTB8fGxvZ2lzdGljcyUyMHRyYW5zcG9ydCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTQ2NTcxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    },
+    {
+      "source": "logistan.info",
+      "topic": "Терминалы",
+      "title": "В Польше открыли логистический хаб для узбекской продукции",
+      "summary": "Фактически, узбекистан» создан на базе компании ATT Logistics, ё» — объект «Польша. Кроме того, соответствующий показатель, по последним данным, находится на уровне 1 тыс. При этом фактически, ожидается, что площадка ускорит поставки узбекских товаров в Европу и расширит их доступ к крупным торговым сетям.",
+      "publishedAt": "Fri, 30 Oct 2026 12:35:00 +0000",
+      "photo": {
+        "url": "https://images.unsplash.com/photo-1709885536197-9f12cd1f480c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5NDY1NzExNHww&ixlib=rb-4.1.0&q=80&w=1080"
+      }
+    }
+  ]
 }
