@@ -1,25 +1,25 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-11-25T15:09:05.871680+00:00",
+  "updatedAt": "2026-11-26T14:36:11.263093+00:00",
   "items": [
     {
       "source": "logistan.info",
-      "topic": "Грузы",
-      "title": "На 15% вырос транзитный грузооборот через Туркменистан",
-      "summary": "Соответствующий показатель, по последним данным, находится на уровне 2026. По имеющимся данным, согласно приведённым цифрам, показатель достигает 1,6 млн. При этом как следует из доступных сведений, речь идёт о 6,6 млн.",
-      "publishedAt": "Wed, 25 Nov 2026 11:04:00 +0000",
+      "topic": "Транспорт",
+      "title": "Казахстан выполнил план по поставкам пассажирских вагонов почти на 85%",
+      "summary": "Как следует из доступных сведений, речь идёт о 2026. Помимо этого, как следует из доступных сведений, речь идёт о 84,8%. Вместе с тем, как следует из доступных сведений, речь идёт о 51.",
+      "publishedAt": "Thu, 26 Nov 2026 09:35:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1686658921894-ae0036d48f59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NHx8dHJhbnNpdCUyMGNlbnRyYWwlMjBhc2lhfGVufDF8MHx8fDE3OTU2MTkzNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1792200965114-83edcc64d5d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Mnx8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5NTcwMzc2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "logistan.info",
-      "topic": "Транспорт",
-      "title": "В Казахстане расширяют участок коридора Западная Европа – Западный Китай до четырёх полос",
-      "summary": "Как следует из доступных сведений, речь идёт о 28. Помимо этого, фактически, дорога представляет собой четырехполосную магистраль I технической категории с разделением встречных потоков . По имеющимся данным, соответствующий показатель, по последним данным, находится на уровне 262.",
-      "publishedAt": "Wed, 25 Nov 2026 08:40:00 +0000",
+      "topic": "Порты",
+      "title": "«Батумский морской порт» нарастил объем перевалки грузовна 2,5%",
+      "summary": "Как следует из доступных сведений, речь идёт о 2026. Кроме того, по имеющимся данным, ключевой показатель составляет 0,038 млн. По имеющимся данным, согласно приведённым цифрам, показатель достигает 0,26 млн.",
+      "publishedAt": "Thu, 26 Nov 2026 08:17:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1790781716929-4eab7de27a22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8OHx8Y29ycmlkb3IlMjBjZW50cmFsJTIwYXNpYXxlbnwxfDB8fHwxNzk1NjE5MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1561702469-c4239ced3f47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NXx8cG9ydHxlbnwxfDB8fHwxNzk1NzAzNzY4fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
