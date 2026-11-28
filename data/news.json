@@ -1,25 +1,25 @@
 {
   "isDemo": false,
-  "updatedAt": "2026-11-27T14:30:28.193852+00:00",
+  "updatedAt": "2026-11-28T13:46:05.752621+00:00",
   "items": [
     {
       "source": "logistan.info",
       "topic": "Транспорт",
       "title": "Казахстан выполнил план по поставкам пассажирских вагонов почти на 85%",
-      "summary": "С начала 2026 года подряд подвижной состав пассажирских единиц подвижного состава Казахстана пополнился 162 единицами техники. Также отмечается, что согласно приведённым цифрам, показатель достигает 84,8%. Кроме того, в том числе: • 51 вагон производства RWS Wagon;• 111 единиц подвижного состава производства Stadler Kazakhstan.",
+      "summary": "С начала 2026 года подряд подвижной состав пассажирских единиц подвижного состава Казахстана пополнился 162 единицами техники. Кроме того, соответствующий показатель, по последним данным, находится на уровне 84,8%. При этом согласно приведённым цифрам, показатель достигает 51.",
       "publishedAt": "Thu, 26 Nov 2026 09:35:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1592838064575-70ed626d3a0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8OXx8bG9naXN0aWNzJTIwdHJhbnNwb3J0fGVufDF8MHx8fDE3OTU3ODk4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1709885536197-9f12cd1f480c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8NHx8bG9naXN0aWNzJTIwdHJhbnNwb3J0JTIwY2VudHJhbCUyMGFzaWF8ZW58MXwwfHx8MTc5NTg3MzU2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     },
     {
       "source": "logistan.info",
-      "topic": "Порты",
-      "title": "«Батумский морской порт» нарастил объем перевалки грузовна 2,5%",
-      "summary": "Как следует из доступных сведений, речь идёт о 2026. Вместе с тем, согласно приведённым цифрам, показатель достигает 0,038 млн. По имеющимся данным, согласно приведённым цифрам, показатель достигает 0,26 млн.",
-      "publishedAt": "Thu, 26 Nov 2026 08:17:00 +0000",
+      "topic": "Терминалы",
+      "title": "В Таджикистане нет складов класса А. Насколько выгодно их строить?",
+      "summary": "По имеющимся данным, ключевой показатель составляет 20. При этом как следует из доступных сведений, речь идёт о 15.",
+      "publishedAt": "Fri, 27 Nov 2026 15:18:00 +0000",
       "photo": {
-        "url": "https://images.unsplash.com/photo-1678182451047-196f22a4143e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8OXx8cG9ydHxlbnwxfDB8fHwxNzk1Nzg5ODI2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDQ2ODEwfDB8MXxzZWFyY2h8Mnx8d2FyZWhvdXNlfGVufDF8MHx8fDE3OTU4NzM1NjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     }
   ]
